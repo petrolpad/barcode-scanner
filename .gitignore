@@ -1,0 +1,4 @@
+.barcode-venv
+*.pyc
+.coverage
+*.egg-info
